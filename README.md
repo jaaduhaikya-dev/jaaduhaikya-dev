@@ -47,6 +47,10 @@ Hi, I'm **Yatin**, a **Data Engineer** focused on building reliable data pipelin
 
 
 <div align="center">
+### Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 <sub>` Build with love· @emmcriptada `</sub>
 
